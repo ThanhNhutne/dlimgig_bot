@@ -1,0 +1,10 @@
+# Ignore config file with sensitive credentials
+config.py
+
+# Ignore downloaded media
+downloads/
+
+# Ignore instaloader session files
+*.session
+/instaloader/
+!/instaloader/__init__.py
